@@ -4,7 +4,7 @@ const pool = mysql.createPool({
     host: 'bnghwr2fr2qbtkftsph3-mysql.services.clever-cloud.com',
     user: 'um7nzzhwioxoj60p',
     database: 'bnghwr2fr2qbtkftsph3',
-    password: 'um7nzzhwioxoj60p',
+    password: '1UPCdEjkYBTWnspuwRYY',
     waitForConnections: true,
     connectionLimit: 10      
 }).promise();
