@@ -30,6 +30,7 @@ function AddBookForm({ fetchBooks }) {
         dateOfPublishing: '',
         subject: '',
       });
+      alert('Book added successfully');
     } catch (error) {
       console.error('Error adding book: ', error);
     }
